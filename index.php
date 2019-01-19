@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<img src="desert.jpeg">
+<img src="user case diagram.jpeg">
 </body>
 
 </html>
